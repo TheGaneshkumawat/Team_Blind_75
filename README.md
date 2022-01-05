@@ -5,7 +5,7 @@
 
 **Today's Progress**: Two Sum.
 
-**Java Class**: TwoSum.java
+**Problem**: Two Sum
 
 **Link(s) to work**
-1. [File Manipulation](https://github.com/TheGaneshkumawat/Python-Tutorial/blob/main/src/file-1.py)
+1. [TwoSum.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/TwoSum.java)
