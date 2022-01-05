@@ -5,7 +5,4 @@
 
 **Today's Progress**: Two Sum.
 
-**Problem**: Two Sum
-
-**Link(s) to work**
-1. [TwoSum.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/TwoSum.java)
+**Link(s) to work**: [TwoSum.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/TwoSum.java)
