@@ -1,6 +1,8 @@
 package com.example.blind;
 
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class ContainsDuplicate {
 
@@ -19,4 +21,15 @@ public class ContainsDuplicate {
 	    return false;
     	   
    }
+
+	public boolean containsDuplicate1(int[] nums) {
+		Set<Integer> set = new HashSet<Integer>();
+		for (int t : nums) {
+            // Add each element into the set
+            set.add(t);
+        }
+		return set.size() != nums.length;
+    	   
+   }
+
 }
