@@ -18,3 +18,9 @@
 **Today's Progress**: 217. Contains Duplicate
 
 **Link(s) to work**: [ContainsDuplicate.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/ContainsDuplicate.java)
+
+### Day 4: 23rd Jan 2021
+
+**Today's Progress**: 152. Maximum Product Subarray
+
+**Link(s) to work**: [Product.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/Product.java)
