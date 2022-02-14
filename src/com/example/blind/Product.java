@@ -79,7 +79,7 @@ public class Product {
 			result[i] = left[i-1]* right[i+1];		 
 		}
 		
-		System.out.println(Arrays.toString(result));
+	
         return result;
     }
 
