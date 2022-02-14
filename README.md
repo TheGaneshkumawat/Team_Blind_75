@@ -31,8 +31,14 @@
 
 **Link(s) to work**: [Product.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/MaximumSubarray.java)
 
-### Day 4: 1st Feb 2022
+### Day 6: 1st Feb 2022
 
 **Today's Progress**: 152. Maximum Product Subarray
 
 **Link(s) to work**: [Product.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/MaximumProduct.java)
+
+### Day 7: 14th Feb 2022
+
+**Today's Progress**: 153. Find Minimum in Rotated Sorted Array
+
+**Link(s) to work**: [FindMinimum.java](https://github.com/TheGaneshkumawat/Team_Blind_75/blob/main/src/com/example/blind/FindMinimum.java)
